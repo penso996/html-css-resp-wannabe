@@ -145,7 +145,7 @@ img {
     }
 
     .row {
-        flex-direction: column;
+        display: block;
     }
 
     .lessons .col {
